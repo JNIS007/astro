@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852125964298",
+    "project_id": "astro-d7619",
+    "storage_bucket": "astro-d7619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852125964298:android:0bc812ccf9f993e02127f3",
+        "android_client_info": {
+          "package_name": "com.example.astrologer_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqF6px2t0y-fpiczX3MlfZnGyYLYgg78Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
